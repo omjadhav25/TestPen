@@ -33,7 +33,7 @@ python pentest_script.py -t 192.168.1.10 -f json --exploit
  Installation:
 1. Clone the repository:
    bash
-   git clone https://github.com/your-username/automated-pentest-script.git
+   git clone https://github.com/omjadhav25/TestPen
    
 2. Install the required dependencies:
    bash
@@ -46,4 +46,5 @@ This tool is intended for educational purposes and ethical hacking only. Unautho
 
 ---
 
+# TestPen
 # TestPen
