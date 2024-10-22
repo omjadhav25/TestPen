@@ -27,7 +27,7 @@ python pentest_script.py -t <target_ip_or_domain> -f <report_format> --exploit
 
  Example:
 bash
-python pentest_script.py -t 192.168.1.10 -f json --exploit
+python testpen.py -t 192.168.1.10 -f json --exploit
 
 
  Installation:
